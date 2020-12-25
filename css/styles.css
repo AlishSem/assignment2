@@ -1,0 +1,11 @@
+.headmenu{
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+div h3 {
+	text-align: center;
+}
+#chicken, #beef, #sushi {
+	background-color: orange;
+	padding: 10px;
+}
